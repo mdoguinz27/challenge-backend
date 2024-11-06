@@ -16,7 +16,7 @@ Antes de ejecutar las pruebas, asegúrate de tener los siguientes requisitos:
 1. **Clona este repositorio**:
 
    ```bash
-   git clone [<url-del-repositorio>](https://github.com/mdoguinz27/challenge-backend.git)
+   git clone https://github.com/mdoguinz27/challenge-backend.git
 
 2. **Pasos para ejecutar el test**:
 
