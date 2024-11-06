@@ -24,3 +24,13 @@ Antes de ejecutar las pruebas, asegúrate de tener los siguientes requisitos:
     ```cd playwright-java-fravega```
 
     Abrir el test y ejecutar PosCreateUserTest en ```src/test/java/com/qa/api/test/PostCreateUserTest.java```
+
+# Crear un nuevo usuario
+![image](https://github.com/user-attachments/assets/1ac5f259-5731-4781-8693-01bdcc869aa7)
+
+# Obtener la lista de usuarios
+![image](https://github.com/user-attachments/assets/d7ddcddd-aafa-42e6-a9e2-0634ed7b0d21)
+
+# Obtener el detalle de
+un usuario específico.
+![image](https://github.com/user-attachments/assets/edea5e81-d213-4f94-948b-ccaf91ac728c)
