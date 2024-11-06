@@ -31,6 +31,5 @@ Antes de ejecutar las pruebas, asegúrate de tener los siguientes requisitos:
 # Obtener la lista de usuarios
 ![image](https://github.com/user-attachments/assets/d7ddcddd-aafa-42e6-a9e2-0634ed7b0d21)
 
-# Obtener el detalle de
-un usuario específico.
+# Obtener el detalle de un usuario específico.
 ![image](https://github.com/user-attachments/assets/edea5e81-d213-4f94-948b-ccaf91ac728c)
