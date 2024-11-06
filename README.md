@@ -1,6 +1,6 @@
-# API Test Automation with Playwright
+# API Test Automation with Java
 
-Este proyecto automatiza pruebas de la API utilizando Playwright, que es una herramienta moderna de automatización para pruebas de aplicaciones web. En este caso, las pruebas están diseñadas para interactuar con una API pública que gestiona usuarios, específicamente la API de GoRest. A través de Playwright, realizamos solicitudes HTTP para crear un usuario, obtener una lista de usuarios y consultar el detalle de un usuario creado previamente.
+Las pruebas están diseñadas para interactuar con una API pública que gestiona usuarios, específicamente la API de GoRest. A través de Playwright, realizamos solicitudes HTTP para crear un usuario, obtener una lista de usuarios y consultar el detalle de un usuario creado previamente.
 
 ## Requisitos
 
