@@ -42,3 +42,27 @@ Selecciona Run 'PostCreateUserTest' para ejecutar todos los métodos de prueba d
 
 ## Obtener el detalle de un usuario específico.
 ![image](https://github.com/user-attachments/assets/edea5e81-d213-4f94-948b-ccaf91ac728c)
+
+
+challenge-backend  
+├── src  
+│   ├── main  
+│   │   └── java  
+│   │       └── com  
+│   │           └── qa  
+│   │               └── api  
+│   │                   └── test  
+│   │                       └── PostCreateUser.java  # Lógica para la creación y consulta de usuarios  
+│  
+│   └── test  
+│       └── java  
+│           └── com  
+│               └── qa  
+│                   └── api  
+│                       └── test  
+│                           └── PostCreateUserTest.java  # Pruebas de creación y consulta de usuarios  
+│  
+├── testng.xml  # Archivo de configuración TestNG  
+├── pom.xml     # Archivo de configuración Maven  
+└── README.md   # Documentación del proyecto  
+
