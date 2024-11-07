@@ -13,23 +13,32 @@ Antes de ejecutar las pruebas, asegúrate de tener los siguientes requisitos:
 
 ### Instalación
 
-1. **Clona este repositorio**:
+**Clona este repositorio**:
 
    ```bash
    git clone https://github.com/mdoguinz27/challenge-backend.git
+   ```
+   
+   
 
-2. **Pasos para ejecutar el test**:
+## Ejecutar el test
 
-    Accede al repositorio del proyecto:
-    ```cd playwright-java-fravega```
+**Opción 1:** Usando IntelliJ (Interfaz Gráfica)
+Ejecutar desde testng.xml
+Haz clic derecho en el archivo testng.xml.
+Selecciona Run 'testng.xml' para ejecutar todos los tests definidos en ese archivo.
+Ejecutar desde la Clase de Prueba
 
-    Abrir el test y ejecutar PosCreateUserTest en ```src/test/java/com/qa/api/test/PostCreateUserTest.java```
+**Opción 2:** Abre la clase de prueba, por ejemplo, PostCreateUserTest.java.
+Haz clic derecho en la clase o en el icono de la parte superior (junto al nombre de la clase).
+Selecciona Run 'PostCreateUserTest' para ejecutar todos los métodos de prueba de esa clase.
 
-# Crear un nuevo usuario
+
+## Crear un nuevo usuario
 ![image](https://github.com/user-attachments/assets/1ac5f259-5731-4781-8693-01bdcc869aa7)
 
-# Obtener la lista de usuarios
+## Obtener la lista de usuarios
 ![image](https://github.com/user-attachments/assets/d7ddcddd-aafa-42e6-a9e2-0634ed7b0d21)
 
-# Obtener el detalle de un usuario específico.
+## Obtener el detalle de un usuario específico.
 ![image](https://github.com/user-attachments/assets/edea5e81-d213-4f94-948b-ccaf91ac728c)
